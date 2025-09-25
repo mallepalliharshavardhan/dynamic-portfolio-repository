@@ -1,0 +1,98 @@
+{
+  "certifications": [
+    {
+      "id": 1,
+      "name": "Oracle Cloud Infrastructure (OCI) Foundations",
+      "provider": "Oracle",
+      "status": "in-progress",
+      "progress": 75,
+      "targetDate": "Q1 2025",
+      "description": "Comprehensive cloud infrastructure fundamentals including compute, storage, networking, and security services",
+      "skillsGained": ["Cloud Computing", "Infrastructure Management", "Security", "Networking"],
+      "priority": "high"
+    },
+    {
+      "id": 2,
+      "name": "Oracle AI Certification",
+      "provider": "Oracle",
+      "status": "planned",
+      "progress": 0,
+      "targetDate": "Q2 2025",
+      "description": "AI and machine learning foundations on Oracle Cloud platform including OCI Data Science and AI services",
+      "skillsGained": ["Machine Learning", "AI Services", "Data Science", "Cloud AI"],
+      "priority": "high"
+    },
+    {
+      "id": 3,
+      "name": "MySQL HeatWave Implementation Associate",
+      "provider": "Oracle",
+      "status": "planned",
+      "progress": 0,
+      "targetDate": "Q2 2025",
+      "description": "Implementation and management of MySQL HeatWave on Oracle Cloud Infrastructure for real-time analytics and transactional workloads",
+      "skillsGained": ["Database Management", "Real-time Analytics", "MySQL", "Data Processing"],
+      "priority": "high"
+    },
+    {
+      "id": 4,
+      "name": "Tata Data Visualization Certification",
+      "provider": "Tata",
+      "status": "completed",
+      "progress": 100,
+      "completedDate": "2024",
+      "description": "Comprehensive business intelligence solution as part of Tata Data Visualization certification",
+      "skillsGained": ["Data Visualization", "Business Intelligence", "Dashboard Development"],
+      "priority": "medium"
+    },
+    {
+      "id": 5,
+      "name": "Kaggle Learn Certificates",
+      "provider": "Kaggle",
+      "status": "completed",
+      "progress": 100,
+      "completedDate": "2024",
+      "description": "Real-world application at Tata Aerospace, applying in automation projects",
+      "skillsGained": ["Data Science", "Machine Learning", "Python", "Data Analysis"],
+      "priority": "medium"
+    },
+    {
+      "id": 6,
+      "name": "NPTEL Programming Certification",
+      "provider": "NPTEL",
+      "status": "completed",
+      "progress": 100,
+      "completedDate": "2024",
+      "description": "Foundational programming skills with basic proficiency",
+      "skillsGained": ["Programming", "Problem Solving", "Algorithms"],
+      "priority": "low"
+    },
+    {
+      "id": 7,
+      "name": "Juniper Networks Program",
+      "provider": "Juniper Networks",
+      "status": "completed",
+      "progress": 100,
+      "completedDate": "2024",
+      "description": "10-week intensive networking program with automation projects",
+      "skillsGained": ["Networking", "Network Automation", "Infrastructure"],
+      "priority": "medium"
+    }
+  ],
+  "learningGoals": [
+    {
+      "goal": "Complete Oracle Cloud Infrastructure certification path",
+      "timeline": "Q1-Q2 2025",
+      "motivation": "Enhance cloud infrastructure expertise for system administration role"
+    },
+    {
+      "goal": "Master MySQL HeatWave for real-time analytics",
+      "timeline": "Q2 2025",
+      "motivation": "Combine database skills with manufacturing data analysis experience"
+    },
+    {
+      "goal": "Apply AI/ML concepts in industrial automation",
+      "timeline": "Q3 2025",
+      "motivation": "Bridge Oracle AI learning with manufacturing process optimization"
+    }
+  ]
+}

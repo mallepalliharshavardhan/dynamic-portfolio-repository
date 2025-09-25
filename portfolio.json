@@ -1,0 +1,60 @@
+{
+  "profile": {
+    "name": "M. Harsha Vardhan",
+    "title": "System Administrator & Oracle Cloud Enthusiast",
+    "location": "Hyderabad, India",
+    "email": "harsha.vardhan@example.com",
+    "linkedin": "linkedin.com/in/harsha-vardhan",
+    "github": "mallepalliharshavardhan",
+    "profileImage": "/images/harsha-profile.jpg",
+    "summary": "Fresh B.Tech ECE graduate (2025) with hands-on experience in system administration and industrial engineering. Currently serving as a System Administrator Intern at AmberResojet Private Limited, an electronics manufacturing company, while leveraging my previous experience at Tata Aerospace.",
+    "philosophy": "I believe in learning by doing. Whether it's waking up at 3:30 AM to practice SQL or diving deep into aerospace manufacturing processes, I'm committed to understanding not just the 'what' but the 'why' behind every technology I encounter.",
+    "currentFocus": "Currently mastering Oracle's complete cloud ecosystem - Oracle Cloud Infrastructure (OCI), Oracle AI, and MySQL HeatWave technologies."
+  },
+  "experience": [
+    {
+      "id": 1,
+      "company": "AmberResojet Private Limited",
+      "position": "System Administrator Intern",
+      "period": "Current",
+      "location": "Hyderabad, India",
+      "type": "Electronics Manufacturing",
+      "responsibilities": [
+        "Managing IT infrastructure in modern electronics manufacturing environment",
+        "Bridging traditional manufacturing with digital technologies",
+        "Learning MES and SCADA integration",
+        "Automation scripting and process optimization"
+      ],
+      "technologies": ["MES", "SCADA", "Active Directory", "Network Administration"],
+      "current": true
+    },
+    {
+      "id": 2,
+      "company": "Tata Advanced Systems Limited",
+      "position": "Industrial Engineering Intern",
+      "period": "2024",
+      "location": "India",
+      "type": "Aerospace Manufacturing",
+      "responsibilities": [
+        "Hands-on experience in world-class aerospace manufacturing",
+        "Working with cutting-edge technologies and lean manufacturing principles",
+        "Exposure to advanced manufacturing technologies including CNC machining",
+        "Composite layup processes and special treatments for aerospace materials"
+      ],
+      "technologies": ["CNC Machining", "Composite Materials", "Lean Manufacturing", "Quality Systems"],
+      "context": "Tata Advanced Systems is India's leading aerospace manufacturer, producing components for Boeing, Airbus, and Lockheed Martin"
+    }
+  ],
+  "education": {
+    "degree": "B.Tech in Electronics and Communication Engineering",
+    "institution": "GPCET",
+    "year": "2025",
+    "memberships": ["IEEE Member @GPCET"]
+  },
+  "highlights": [
+    "Recognized by prestigious financial institution for strong technical potential",
+    "Known for 3:30 AM SQL practice sessions showing exceptional commitment",
+    "Pursuing integrated Oracle cloud platform expertise covering complete technology stack",
+    "Successfully applied theoretical knowledge in both aerospace and electronics industries"
+  ]
+}
